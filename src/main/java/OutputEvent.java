@@ -1,5 +1,5 @@
 @FunctionalInterface
-public interface MyFunction {
+public interface OutputEvent {
 
     /**
      * Gets a result.
